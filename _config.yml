@@ -1,7 +1,7 @@
 name: chrislema
 favicon: null
 layout_spectrum: 0.36143
-typography_spectrum: 0.2878
+typography_spectrum: 0.15561
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#fdde7c'
     - '#84868d'
   brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.375
+  lightness: 0.4375
+  saturation: 0.625
   rhythmicContrast: 0.8347064014524221
 purpose: []
