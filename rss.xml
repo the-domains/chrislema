@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[chrislema]]></title>
         <description><![CDATA[chrislema]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chrislema/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 08:30:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 08:35:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chrislema/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The thing that motivates your employees isn't you]]></title>
             <description><![CDATA[<article><h1>The thing that motivates your employees isn't you</h1><p>One of the first memories I have of professional sports is a game my dad took me and my brother to at the Fabulous Forum, home of the LA Lakers (at the time).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b89c86906a164080c913cc0cc9488cd4d4425e30.jpg"></article>]]></description>
-            <link>undefinedthe-thing-that-motivates-your-employees-isnt-you/index.html</link>
+            <link>https://thegrid.ai/chrislema/the-thing-that-motivates-your-employees-isnt-you/index.html</link>
             <guid isPermaLink="false">7c651d40-5e97-455b-bd03-88bb83811ffa</guid>
-            <pubDate>Sun, 03 Jan 2016 08:29:55 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 08:34:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
